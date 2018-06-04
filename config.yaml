@@ -1,0 +1,31 @@
+# Google Scholar page (you can choose how you sort it)
+# url: "https://scholar.google.com/citations?hl=en&user=F4UZ_jIAAAAJ&view_op=list_works&sortby=pubdate"
+url: "https://scholar.google.com/citations?hl=en&user=F4UZ_jIAAAAJ&view_op=list_works&sortby=pubdate&cstart=0&pagesize=100"
+
+#### Everything below this line is OPTIONAL ####
+
+# Name to highlight 
+highlight: "SCJ Parker"
+
+
+# Need an Email address that has been registered with CrossRef to obtain DOIs 
+# using their OpenURL service. 
+# e.g. the following should provide an XML file: 
+# http://www.crossref.org/openurl?redirect=false&pid=YOUR@EMAIL>COM&aulast=Wurm&atitle=Behavioral%20Genomics:%20A,%20Bee,%20C,%20G,%20T
+
+
+# Show "[Cited Nx]" if N > the following number
+minCitations: 5
+
+# Words to italicize (emphasize). These will have "<em>" around them. 
+#italicize: 
+# - Solenopsis invicta
+# - Acromyrmex echinatior
+# - de novo
+
+# DOIs of articles for which we should show altmetric.org badges. 
+#altmetricDOIs: 
+# - "10.1038/nature11832"
+# - "10.1101/gr.121392.111"
+# - "10.1073/pnas.1009690108"
+# - "10.1073/pnas.1104825108"
